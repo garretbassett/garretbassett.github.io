@@ -3,9 +3,11 @@ layout: page
 title: About me
 ---
 
-Hi! I'm Garret. I'm learning to work with data, and hoping to leverage those skills to uncover new insights about the world around me.
+Hi, I'm Garret.
 
-Here's a few questions that are on my mind:
+I'm learning to work with data, and hoping to leverage those skills to uncover new insights about the world around me.
+
+Here are some of the questions I want to explore:
 - How can we help young people to better identify their intellectual strengths and interests?
 - What are the distinct types of work being done at a typical firm, and what is the optimal mix?
 - What can data tell us about the history of music, and how can machine learning change its future?
