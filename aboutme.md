@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm Garret. I'm learning to work with data, and hoping to leverage those skills to uncover new insights about the world around me.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Here's a few questions that are on my mind:
+- How can we help young people to better identify their intellectual strengths and interests?
+- What are the distinct types of work being done at a typical firm, and what is the optimal mix?
+- What can data tell us about the history of music, and how can machine learning change its future?
+- Why isn't internet access treated as a utility, and what would be possible if it was?
+- How can we leverage data to improve outcomes in healthcare and medicine?
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hopefully someday my work speaks for itself.
