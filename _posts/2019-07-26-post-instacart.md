@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear diary
+title: Instacart insight
 ---
 
 You can know a lot about a person by the way they shop. That's what Instacart thinks, anyway. They've released a [public dataset](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2) with over 3 million grocery orders.
