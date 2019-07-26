@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: about me
 ---
 
 Hi! I'm Garret. I'm learning to work with data, and hoping to leverage those skills to uncover new insights about the world around me.
