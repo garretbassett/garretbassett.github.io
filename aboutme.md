@@ -13,5 +13,3 @@ Here are some of the questions I want to explore:
 - What can data tell us about the history of music, and how can machine learning change its future?
 - Why isn't internet access treated as a utility, and what would be possible if it was?
 - How can we leverage data to improve outcomes in healthcare and medicine?
-
-Hopefully someday my work speaks for itself.
