@@ -22,6 +22,7 @@ Career, time management, philosophy / belief
 ### X is really non-X
 
 **What misconceptions do people have about your topic?**
+
 Based on my limited experience, there tends to be some discrepancy between the skills and responsibilities articulated
 in a job description, and what the job actually is. If there were some kind of universal taxonomy, or even a domain-specific
 one, that identified the different types of work and the relevant skills, that could potentially help job seekers better
