@@ -36,3 +36,4 @@ Potential data sources include:
 a sense for the frequency of certain skills or responsibilities.
 - **Government employment data**. Example would be BLS. I've worked with this data before and wasn't super impressed,
 but will give it another shot.
+- **Academic studies**. Existing literature on this topic could give me data to use as a starting point, and any skills taxonomy I find could serve as a baseline for classification.
